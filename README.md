@@ -122,12 +122,10 @@ Este proyecto es una aplicación de consola desarrollada en Python que permite l
 - [Jorgelet](https://github.com/Jorgelet)
 
 ## Tecnologías
-*  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-*  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sambek99&layout=compact&langs_count=8&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambek99&show_icons=true&theme=radical)
 *  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 *  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-*  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-*  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 *  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## Frameworks
